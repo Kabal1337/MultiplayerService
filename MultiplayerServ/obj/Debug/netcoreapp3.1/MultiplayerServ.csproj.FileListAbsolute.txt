@@ -1,0 +1,13 @@
+D:\MultiplayerProj\MultiplayerServ\bin\Debug\netcoreapp3.1\MultiplayerServ.exe
+D:\MultiplayerProj\MultiplayerServ\bin\Debug\netcoreapp3.1\MultiplayerServ.deps.json
+D:\MultiplayerProj\MultiplayerServ\bin\Debug\netcoreapp3.1\MultiplayerServ.runtimeconfig.json
+D:\MultiplayerProj\MultiplayerServ\bin\Debug\netcoreapp3.1\MultiplayerServ.runtimeconfig.dev.json
+D:\MultiplayerProj\MultiplayerServ\bin\Debug\netcoreapp3.1\MultiplayerServ.dll
+D:\MultiplayerProj\MultiplayerServ\bin\Debug\netcoreapp3.1\MultiplayerServ.pdb
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.csproj.AssemblyReference.cache
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.AssemblyInfoInputs.cache
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.AssemblyInfo.cs
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.csproj.CoreCompileInputs.cache
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.dll
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.pdb
+D:\MultiplayerProj\MultiplayerServ\obj\Debug\netcoreapp3.1\MultiplayerServ.genruntimeconfig.cache
