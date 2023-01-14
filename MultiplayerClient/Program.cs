@@ -22,7 +22,8 @@ namespace MultiplayerClient
                 // подключаемся к удаленному хосту
                 socket.Connect(ipPoint);
                 //Console.Write("Введите сообщение:");
-                StreamReader stream = new StreamReader("ld.json");
+                StreamReader stream = new StreamReader("ld_client.json");
+                
                 while (true)
                 { 
                     
@@ -40,7 +41,11 @@ namespace MultiplayerClient
                         builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
                     }
                     while (socket.Available > 0);
-                    Console.WriteLine("ответ сервера: " + builder.ToString());
+                    using (StreamWriter stream_serv = new StreamWriter("ld_server.json", false, Encoding.ASCII))
+                    {
+                        stream_serv.WriteLine(builder.ToString());
+                    }
+                    //stream_serv.Close();
                 }
                 // закрываем сокет
                 //socket.Shutdown(SocketShutdown.Both);
